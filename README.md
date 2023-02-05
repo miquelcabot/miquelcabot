@@ -9,7 +9,7 @@
 - 🎓 PhD candidate in blockchain applied to e-commerce (Information and Communications Technologies) at [Universitat de les Illes Balears](https://www.uib.cat/)
 - 🎓 Studies for Master's Degree in Information and Communications Technologies (ICT) at [Universitat de les Illes Balears](https://www.uib.cat/)
 - 🎓 Studies for Computer Engineering at [Universitat Oberta de Catalunya](https://www.uoc.edu/)
-- 🏡 Lives in **Mallorca, Spain**
+- 🏡 Lives in **Mallorca**
 - ⚡ **Fun Facts** : 🏃 🧘 🎸 🍣 ⛰️ 📷
 
 <br>
