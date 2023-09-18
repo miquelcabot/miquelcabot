@@ -5,7 +5,8 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Blockchain engineer, senior Solidity/Web3 developer at** at [Keyko](https://keyko.io/) and [Masa Finance](https://www.masa.finance/)
-- 🏢 Former **Senior Blockchain Developer** at [Ocean Protocol](https://oceanprotocol.com/) and **Senior Solidity/Web3 developer** at [Unizen](https://www.unizen.io/) 
+- 🏢 I am also working as Associate Lecturer at [Universitat de les Illes Balears]([https://www.uib.cat/](https://personal.uib.eu/miquel.cabot))
+- 🏢 Former **Senior Blockchain Developer** at [Ocean Protocol](https://oceanprotocol.com/) and **Senior Solidity/Web3 developer** at [Unizen](https://www.unizen.io/)
 - 🎓 PhD candidate in blockchain applied to e-commerce (Information and Communications Technologies) at [Universitat de les Illes Balears](https://www.uib.cat/)
 - 🎓 Studies for Master's Degree in Information and Communications Technologies (ICT) at [Universitat de les Illes Balears](https://www.uib.cat/)
 - 🎓 Studies for Computer Engineering at [Universitat Oberta de Catalunya](https://www.uoc.edu/)
