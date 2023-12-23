@@ -7,9 +7,9 @@
 - 🏢 I am currently working as a **Blockchain engineer, senior Solidity/Web3 developer at** at [Keyko](https://keyko.io/) and [Masa Finance](https://www.masa.finance/)
 - 🏢 I am also working as Associate Lecturer at [University of the Balearic Islands](https://personal.uib.eu/miquel.cabot)
 - 🏢 Former **Senior Blockchain Developer** at [Ocean Protocol](https://oceanprotocol.com/) and **Senior Solidity/Web3 developer** at [Unizen](https://www.unizen.io/)
-- 🎓 PhD candidate in blockchain applied to e-commerce (Information and Communications Technologies) at [Universitat de les Illes Balears](https://www.uib.cat/)
-- 🎓 Studies for Master's Degree in Information and Communications Technologies (ICT) at [Universitat de les Illes Balears](https://www.uib.cat/)
-- 🎓 Studies for Computer Engineering at [Universitat Oberta de Catalunya](https://www.uoc.edu/)
+- 🎓 PhD candidate in blockchain applied to e-commerce (Information and Communications Technologies) at [University of the Balearic Islands](https://www.uib.cat/)
+- 🎓 Studies for Master's Degree in Information and Communications Technologies (ICT) at [University of the Balearic Islands](https://www.uib.cat/)
+- 🎓 Studies for Computer Engineering at [Open University of Catalonia](https://www.uoc.edu/)
 - 🏡 Lives in **Mallorca**
 - ⚡ **Fun Facts** : 🏃 🧘 🎸 🍣 ⛰️ 📷
 
