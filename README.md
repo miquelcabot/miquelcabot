@@ -1,22 +1,41 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Miquel A. Cabot</h1>
+```rust
+#[derive(Debug)]
+struct Resume {
+  name: &'static str,
+  current_roles: Vec<&'static str>,
+  former_roles: Vec<&'static str>,
+  education: Vec<&'static str>,
+  location: &'static str,
+  webpage: &'static str,
+  email: &'static str,
+  twitter: &'static str,
+  linkedin: &'static str,
+}
 
-![GitHub followers](https://img.shields.io/github/followers/miquelcabot?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miquelcabot?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miquelcabot.repoName) <img src="https://komarev.com/ghpvc/?username=miquelcabot" alt="miquelcabot" />
+fn main() {
+  let resume = Resume {
+      name: "Miquel A. Cabot",
+      current_roles: vec![
+          "Blockchain engineer. Senior Solidity/Rust/Web3 developer at Keyko/Masa Finance",
+          "Lecturer at University of the Balearic Islands",
+      ],
+      former_roles: vec![
+          "Senior Blockchain Developer at Ocean Protocol",
+          "Senior Solidity/Web3 developer at Unizen",
+      ],
+      education: vec![
+          "Ph.D. in Information and Communications Technology from the University of the Balearic Islands. Thesis title: Blockchain-based e-commerce protocols",
+          "Master's Degree in Information Technologies from the University of the Balearic Islands",
+          "Bachelor's Degree in Computer Engineering from the Open University of Catalonia",
+      ],
+      location: "Mallorca 🏝",
+      webpage: "https://cabot.dev",
+      email: "miquel@cabot.dev",
+      twitter: "https://twitter.com/miquelcabot",
+      linkedin: "https://www.linkedin.com/in/miquel-cabot/"
+  };
 
-## About Me :
+  println!("{:#?}", resume);
+}
 
-- 🏢 I am currently working as a **Blockchain engineer, senior Solidity/Web3 developer at** at [Keyko](https://keyko.io/) and [Masa Finance](https://www.masa.finance/)
-- 🏢 I am also working as Associate Lecturer at [University of the Balearic Islands](https://personal.uib.eu/miquel.cabot)
-- 🏢 Former **Senior Blockchain Developer** at [Ocean Protocol](https://oceanprotocol.com/) and **Senior Solidity/Web3 developer** at [Unizen](https://www.unizen.io/)
-- 🎓 PhD candidate in blockchain applied to e-commerce (Information and Communications Technologies) at [University of the Balearic Islands](https://www.uib.cat/)
-- 🎓 Studies for Master's Degree in Information and Communications Technologies (ICT) at [University of the Balearic Islands](https://www.uib.cat/)
-- 🎓 Studies for Computer Engineering at [Open University of Catalonia](https://www.uoc.edu/)
-- 🏡 Lives in **Mallorca**
-- ⚡ **Fun Facts** : 🏃 🧘 🎸 🍣 ⛰️ 📷
-
-<br>
-
-## Connect with me ☕ :
-
-<br>
-
-[![@miquel-cabot](https://img.icons8.com/fluency/48/000000/linkedin.png "@miquel-cabot")](https://www.linkedin.com/in/miquel-cabot/) [![@miquelcabot](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@miquelcabot")](https://twitter.com/miquelcabot) [![@miquel@cabot.dev](https://img.icons8.com/fluency/48/000000/apple-mail.png "miquel@cabot.dev")](mailto:miquel.cabot@gmail.com)
+```
