@@ -1,3 +1,4 @@
+```rust
 #[derive(Debug)]
 struct Resume {
     name: &'static str,
@@ -23,3 +24,4 @@ fn main() {
     };
     println!("{:#?}", resume);
 }
+```
