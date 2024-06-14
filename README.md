@@ -10,17 +10,18 @@ struct Resume {
 
 fn main() {
     let resume = Resume {
-        name: "Miquel A. Cabot",
+        name: "👨🏻‍💻 Miquel A. Cabot",
         current_roles: vec![
-            "Blockchain engineer. Senior Solidity/Rust/Web3 developer at Keyko/Masa Finance",
-            "Lecturer at University of the Balearic Islands",
+            "💻🦀🛠️ Blockchain engineer. Senior Solidity/Rust/Web3 developer at Keyko/Masa",
+            "🔒📚🏛️ Lecturer at University of the Balearic Islands, teaching Software Security",
         ],
         education: vec![
-            "Ph.D. candidate from the University of the Balearic Islands",
-            "Bachelor's Degree in Computer Engineering from the Open University of Catalonia",
+            "🎓 Ph.D. from the University of the Balearic Islands. Thesis title: Blockchain-based e-commerce protocols",
+            "🎓 Master's Degree in Information Technologies from the University of the Balearic Islands",
+            "🎓 Bachelor's Degree in Computer Engineering from the Open University of Catalonia",
         ],
-        location: "Mallorca 🏝",
-        webpage: "https://cabot.dev",
+        location: "🏝 Mallorca",
+        webpage: "🌐 https://cabot.dev",
     };
     println!("{:#?}", resume);
 }
