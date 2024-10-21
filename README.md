@@ -16,7 +16,7 @@ fn main() {
             "🔒📚🏛️ Lecturer at University of the Balearic Islands, teaching Software Security",
         ],
         education: vec![
-            "🎓 Ph.D. from the University of the Balearic Islands. Thesis title: Blockchain-based e-commerce protocols",
+            "🎓 Ph.D. in ICT from the University of the Balearic Islands. Thesis title: Blockchain-based e-commerce protocols",
             "🎓 Master's Degree in Information Technologies from the University of the Balearic Islands",
             "🎓 Bachelor's Degree in Computer Engineering from the Open University of Catalonia",
         ],
