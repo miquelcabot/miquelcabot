@@ -13,7 +13,7 @@ fn main() {
         name: "👨🏻‍💻 Miquel A. Cabot",
         current_roles: vec![
             "💻🦀🛠️ Blockchain engineer. Senior Solidity/Rust/Web3 developer",
-            "🔒📚🏛️ Lecturer at University of the Balearic Islands, teaching Software Security",
+            "🔒📚🏛️ Lecturer at the University of the Balearic Islands, teaching Software Security",
         ],
         education: vec![
             "🎓 Ph.D. in ICT from the University of the Balearic Islands. Thesis title: Blockchain-based e-commerce protocols",
