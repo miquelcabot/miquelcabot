@@ -10,7 +10,7 @@ struct Resume {
 
 fn main() {
     let resume = Resume {
-        name: "👨🏻‍💻 Miquel A. Cabot",
+        name: "👨🏻‍💻 Miquel Cabot",
         current_roles: vec![
             "🔗🦀 Blockchain engineer. Senior Solidity/Rust/Web3 developer",
             "🏛🔒 Lecturer at the University of the Balearic Islands, teaching Software Security",
