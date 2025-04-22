@@ -12,7 +12,7 @@ fn main() {
     let resume = Resume {
         name: "👨🏻‍💻 Miquel Cabot",
         current_roles: vec![
-            "🔗🦀 Blockchain engineer. Senior Rust/Solidity/Web3 developer",
+            "🔗🦀 Senior blockchain developer (Rust/Solidity/Web3)",
             "🏛🔒 Lecturer at the University of the Balearic Islands, teaching Software Security",
         ],
         education: vec![
